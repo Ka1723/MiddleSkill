@@ -17,7 +17,9 @@ public class Test1 {
 	
 	private int weight;
 	
+	public static void main(String[] args) {
 	
+	}
 	
 	public String getFirst_name() {
 		return first_name;	
