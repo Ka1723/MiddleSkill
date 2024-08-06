@@ -6,6 +6,7 @@ public class Test1 {
 	//問題3:getterメソッドとsetterメソッドをカプセル化しようとする時どのようなアクセス修飾子が適切ですか？
 	//回答3「　ここへ記入　」
 	
+	
 	private String first_name;
 	
 	private String last_name;
@@ -15,6 +16,7 @@ public class Test1 {
 	private int age;
 	
 	private int weight;
+	
 	
 	
 	public String getFirst_name() {
@@ -55,5 +57,7 @@ public class Test1 {
 	
 	public void setWeight(int weight) {
 		this.weight = weight;
-	}
+	
+}	
+	
 }	
